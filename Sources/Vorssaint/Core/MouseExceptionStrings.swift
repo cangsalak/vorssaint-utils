@@ -47,6 +47,7 @@ extension FeatureStrings {
         case .zhTW: return .zhTW
         case .zhHK: return .zhHK
         case .uk: return .uk
+        case .th: return .th
         }
     }
 }
@@ -260,4 +261,19 @@ extension MouseExceptionStrings {
         captionSuperKey: "Коли будь-яка з цих програм відкрита, навіть у фоновому режимі, Super Key призупиняється, і вибрана клавіша відновлює свою звичайну функцію.",
         pausedSuperKey: "Призупинено, поки відкрита вибрана програма"
     )
+
+    static let th = MouseExceptionStrings(
+        listTitle: "แอพที่จะทิ้งไว้คนเดียว",
+        addButton: "Add an app…",
+        removeButton: "เอาออก",
+        captionSmoothScroll: "The wheel keeps its plain steps in these apps, for apps that read it their own way, like 3D and design tools.",
+        captionScrollDirection: "The wheel keeps the direction macOS gives it in these apps.",
+        captionNavigation: "The side buttons keep doing whatever these apps already do with them.",
+        captionButtonShortcuts: "Your extra mouse buttons stay quiet in these apps, and the press reaches them instead.",
+        captionMiddleClick: "A three finger click stays a normal click in these apps.",
+        captionFocusFollowsMouse: "การวางเมาส์เหนือจะไม่เปลี่ยนโฟกัสหรือยกหน้าต่างในแอพเหล่านี้",
+        captionSuperKey: "ขณะที่แอปใดๆ เหล่านี้เปิดอยู่ แม้จะอยู่เบื้องหลัง Super Key จะหยุดชั่วคราวและปุ่มที่เลือกจะทำงานได้ตามปกติ",
+        pausedSuperKey: "Paused while a selected app is open"
+    )
+
 }
