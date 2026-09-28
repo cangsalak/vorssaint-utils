@@ -263,17 +263,17 @@ extension MouseExceptionStrings {
     )
 
     static let th = MouseExceptionStrings(
-        listTitle: "แอพที่จะทิ้งไว้คนเดียว",
-        addButton: "Add an app…",
+        listTitle: "แอปที่ยกเว้น (ไม่ปรับแต่ง)",
+        addButton: "เพิ่มแอป…",
         removeButton: "เอาออก",
-        captionSmoothScroll: "The wheel keeps its plain steps in these apps, for apps that read it their own way, like 3D and design tools.",
-        captionScrollDirection: "The wheel keeps the direction macOS gives it in these apps.",
-        captionNavigation: "The side buttons keep doing whatever these apps already do with them.",
-        captionButtonShortcuts: "Your extra mouse buttons stay quiet in these apps, and the press reaches them instead.",
-        captionMiddleClick: "A three finger click stays a normal click in these apps.",
-        captionFocusFollowsMouse: "การวางเมาส์เหนือจะไม่เปลี่ยนโฟกัสหรือยกหน้าต่างในแอพเหล่านี้",
-        captionSuperKey: "ขณะที่แอปใดๆ เหล่านี้เปิดอยู่ แม้จะอยู่เบื้องหลัง Super Key จะหยุดชั่วคราวและปุ่มที่เลือกจะทำงานได้ตามปกติ",
-        pausedSuperKey: "Paused while a selected app is open"
+        captionSmoothScroll: "ล้อเลื่อนเมาส์จะทำงานตามจังหวะปกติในแอปเหล่านี้ เหมาะสำหรับแอปที่มีการประมวลผลล้อเลื่อนเฉพาะ เช่น เครื่องมือ 3D หรือโปรแกรมออกแบบ",
+        captionScrollDirection: "ล้อเลื่อนเมาส์จะยังคงทิศทางการเลื่อนตามค่าเริ่มต้นของ macOS ในแอปเหล่านี้",
+        captionNavigation: "ปุ่มด้านข้างของเมาส์จะยังคงทำงานตามที่แอปเหล่านี้กำหนดไว้เดิม",
+        captionButtonShortcuts: "ปุ่มพิเศษของเมาส์จะไม่ส่งปุ่มลัดของ Vorssaint ในแอปเหล่านี้ แต่จะส่งสัญญาณคลิกไปยังตัวแอปโดยตรง",
+        captionMiddleClick: "การคลิกด้วยสามนิ้วจะยังคงเป็นการคลิกปกติในแอปเหล่านี้",
+        captionFocusFollowsMouse: "การวางตัวชี้เมาส์เหนือหน้าต่างจะไม่เปลี่ยนโฟกัสหรือสลับหน้าต่างขึ้นมาด้านหน้าในแอปเหล่านี้",
+        captionSuperKey: "เมื่อแอปใดๆ ในรายการนี้เปิดอยู่ แม้ทำงานอยู่เบื้องหลัง Super Key จะหยุดทำงานชั่วคราว และแป้นพิมพ์ที่เลือกจะกลับมาทำงานตามปกติ",
+        pausedSuperKey: "หยุดทำงานชั่วคราวขณะที่แอปที่เลือกเปิดอยู่"
     )
 
 }
