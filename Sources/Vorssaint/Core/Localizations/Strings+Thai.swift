@@ -1047,6 +1047,9 @@ extension Strings {
         smoothScrollCoastLabel: "การเคลื่อนที่ต่อเนื่อง",
         mouseAccelerationName: "ปิดการเร่งความเร็วของเมาส์ (Mouse Acceleration)",
         mouseAccelerationCaption: "ปิดการเร่งความเร็วของตัวชี้เมาส์เพื่อให้การเคลื่อนที่เป็นเส้นตรงและแม่นยำยิ่งขึ้น การตั้งค่าเดิมจะกลับมาเมื่อปิดตัวเลือกนี้หรือปิดแอป",
+        linearScrollName: "การเลื่อนด้วยความเร็วคงที่ (Linear Scrolling)",
+        linearScrollCaption: "เลื่อนหน้าจอด้วยความเร็วคงที่ในทุกจังหวะการหมุนของล้อเมาส์ โดยไม่เร่งความเร็วตามการหมุน แทร็กแพดจะไม่ได้รับผลกระทบ",
+        linearScrollLinesLabel: "จำนวนบรรทัดต่อหนึ่งขั้นตอน",
         shelfClearOnClose: "ล้างรายการเมื่อปิด",
         shelfClearOnCloseCaption: "ล้างไฟล์ทั้งหมดบนชั้นวางพักไฟล์เมื่อปิดแผง"
     )
