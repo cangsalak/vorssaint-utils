@@ -235,16 +235,16 @@ extension MenuBarAppearanceStrings {
     )
 
     static let th = MenuBarAppearanceStrings(
-        label: "Usage display",
-        values: "ค่านิยม",
-        bars: "Bars",
-        caption: "Bars apply to CPU, GPU, memory and disk usage. Other readings stay numeric.",
-        customize: "Bar colors and limits",
-        normalColor: "Normal color",
-        mediumColor: "Medium color",
-        highColor: "High color",
-        mediumFrom: "Medium from",
-        highFrom: "สูงจาก"
+        label: "การแสดงสถานะการใช้งาน",
+        values: "ตัวเลข",
+        bars: "แถบกราฟ",
+        caption: "แถบกราฟจะใช้กับการแสดงสถานะ CPU, GPU, หน่วยความจำ และดิสก์ ส่วนข้อมูลอื่นๆ จะแสดงเป็นตัวเลข",
+        customize: "สีของแถบกราฟและขีดจำกัด",
+        normalColor: "สีระดับปกติ",
+        mediumColor: "สีระดับปานกลาง",
+        highColor: "สีระดับสูง",
+        mediumFrom: "ระดับปานกลางเริ่มต้นที่",
+        highFrom: "ระดับสูงเริ่มต้นที่"
     )
 
 }

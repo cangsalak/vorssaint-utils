@@ -171,12 +171,12 @@ extension DiskExclusionStrings {
     )
 
     static let th = DiskExclusionStrings(
-        listTitle: "ไดรฟ์ที่ไม่รวม",
-        addButton: "เพิ่มไดรฟ์...",
-        otherDrive: "Other drive name…",
+        listTitle: "ไดรฟ์ที่ยกเว้น",
+        addButton: "เพิ่มไดรฟ์…",
+        otherDrive: "ชื่อไดรฟ์อื่น…",
         removeButton: "เอาออก",
-        customPlaceholder: "Drive or volume name",
-        caption: "Drives in this list are never unmounted when using Eject all disks."
+        customPlaceholder: "ชื่อไดรฟ์หรือโวลุ่ม",
+        caption: "ไดรฟ์ในรายการนี้จะไม่ถูกนำออกเมื่อใช้คำสั่ง “เอาดิสก์ทั้งหมดออก”"
     )
 
 }

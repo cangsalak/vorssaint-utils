@@ -501,25 +501,25 @@ extension KeepAwakeAutomationStrings {
     )
 
     static let th = KeepAwakeAutomationStrings(
-        automationSection: "Automation",
-        automationCaption: "เริ่มต้นเมื่อเงื่อนไขใดๆ ที่เลือกทำงานอยู่",
+        automationSection: "ระบบอัตโนมัติ",
+        automationCaption: "เริ่มทำงานเมื่อเงื่อนไขใดเงื่อนไขหนึ่งที่เลือกเปิดใช้งานอยู่",
         automationOff: "ปิด",
-        externalDisplayToggle: "External display",
+        externalDisplayToggle: "จอแสดงผลภายนอก",
         externalDisplayActive: "ทำงานขณะเชื่อมต่อจอแสดงผลภายนอก",
-        powerToggle: "พลัง",
-        powerActive: "Active while connected to power",
-        runningAppsToggle: "Applications",
-        runningAppsActive: "Active while a selected app is running",
-        runningAppsListTitle: "Selected apps",
-        runningAppsAddButton: "Add an app…",
-        runningAppsRemoveButton: "เอาออก",
-        runningAppsListCaption: "Keep Awake starts while any of these apps is open, even in the background.",
-        automationActive: "Active because an automatic condition is met",
-        pauseWhenLockedToggle: "หยุดชั่วคราวในขณะที่ Mac ถูกล็อค",
-        pauseWhenLockedCaption: "Follows normal sleep rules while locked and resumes the remaining session after you unlock.",
-        matchAny: "Any",
-        matchAll: "ทั้งหมด",
-        automationCaptionAll: "Starts only when every selected condition is active."
+        powerToggle: "เชื่อมต่อแหล่งจ่ายไฟ",
+        powerActive: "ทำงานขณะเสียบสายชาร์จไฟ",
+        runningAppsToggle: "แอปพลิเคชัน",
+        runningAppsActive: "ทำงานขณะที่แอปที่เลือกกำลังเปิดอยู่",
+        runningAppsListTitle: "แอปที่เลือก",
+        runningAppsAddButton: "เพิ่มแอป…",
+        runningAppsRemoveButton: "ลบออก",
+        runningAppsListCaption: "ระบบคงสถานะตื่นจะเริ่มทำงานทันทีเมื่อแอปเหล่านี้เปิดอยู่ แม้จะทำงานอยู่เบื้องหลังก็ตาม",
+        automationActive: "ทำงานอยู่เนื่องจากตรงตามเงื่อนไขอัตโนมัติ",
+        pauseWhenLockedToggle: "พักการทำงานชั่วขณะเมื่อ Mac ถูกล็อคหน้าจอ",
+        pauseWhenLockedCaption: "เข้าสู่โหมดพักเครื่องตามปกติขณะล็อคหน้าจอ และจะกลับมาคงสถานะตื่นต่อตามเวลาที่เหลือหลังจากคุณปลดล็อค",
+        matchAny: "เงื่อนไขใดก็ได้",
+        matchAll: "ทุกเงื่อนไข",
+        automationCaptionAll: "เริ่มทำงานเฉพาะเมื่อทุกเงื่อนไขที่เลือกเปิดใช้งานพร้อมกันเท่านั้น"
     )
 
 }

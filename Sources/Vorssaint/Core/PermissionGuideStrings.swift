@@ -73,16 +73,16 @@ extension PermissionGuideStrings {
     )
 
     static let th = PermissionGuideStrings(
-        title: "One step left",
-        stepOpen: "macOS opened System Settings on the right list.",
-        stepToggle: "Turn Vorssaint on in that list.",
-        stepReturn: "Come back. This card notices by itself.",
-        waiting: "กำลังรอการอนุญาต...",
-        granted: "Permission granted!",
+        title: "เหลืออีกเพียงขั้นตอนเดียว",
+        stepOpen: "macOS ได้เปิดการตั้งค่าระบบไปยังรายการที่ถูกต้องแล้ว",
+        stepToggle: "เปิดสวิตช์อนุญาตสำหรับ Vorssaint ในรายการนั้น",
+        stepReturn: "กลับมาที่นี่ หน้านี้จะตรวจจับการอนุญาตโดยอัตโนมัติ",
+        waiting: "กำลังรอการอนุญาตสิทธิ์…",
+        granted: "ได้รับอนุญาตสิทธิ์เรียบร้อยแล้ว!",
         closeHelp: "ปิด",
-        staleHint: "Already on in that list? That entry belongs to an earlier copy of the app. Start over to replace it.",
-        startOver: "Start over",
-        relaunch: "Relaunch to apply"
+        staleHint: "สวิตช์เปิดอยู่แล้วในรายการหรือไม่? รายการนั้นอาจเป็นของแอปเวอร์ชันก่อนหน้า เริ่มต้นใหม่เพื่อแทนที่รายการเดิม",
+        startOver: "เริ่มต้นใหม่",
+        relaunch: "เปิดแอปใหม่อีกครั้งเพื่อเริ่มใช้งาน"
     )
 
 }

@@ -123,9 +123,9 @@ extension BatteryTimeFeatureStrings {
     )
 
     static let th = BatteryTimeFeatureStrings(
-        title: "Battery time remaining",
-        systemEstimate: "System estimate",
-        calculating: "Calculating…"
+        title: "เวลาแบตเตอรี่ที่เหลืออยู่",
+        systemEstimate: "การประเมินของระบบ",
+        calculating: "กำลังคำนวณ…"
     )
 
 }

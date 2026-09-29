@@ -56,16 +56,16 @@ extension SettingsPageStrings {
     )
 
     static let th = SettingsPageStrings(
-        energyDescription: "Keep the Mac awake, control your displays and save battery.",
-        monitorDescription: "สิ่งที่แถบเมนูและแผงแสดงเกี่ยวกับ Mac ของคุณ และเมื่อใดที่ควรเตือนคุณ",
-        mouseDescription: "Give the wheel, the side buttons and the trackpad new jobs.",
-        switcherDescription: "Switch between apps and windows your way.",
-        dockTitle: "ท่าเรือ",
-        dockDescription: "See an app’s windows from its Dock icon, and choose what a click on it does.",
-        switcherLayoutWindows: "Window previews",
-        switcherLayoutWindowsCaption: "One preview per window, minimized ones included.",
-        switcherLayoutIcons: "Large icons",
-        switcherLayoutSimple: "Simple list"
+        energyDescription: "คงสถานะตื่นของ Mac ควบคุมหน้าจอแสดงผล และประหยัดแบตเตอรี่",
+        monitorDescription: "ข้อมูลเกี่ยวกับ Mac ที่แถบเมนูและแผงแสดงผล รวมถึงเวลาที่ควรแจ้งเตือนคุณ",
+        mouseDescription: "เพิ่มหน้าที่ใหม่ให้กับล้อหมุน ปุ่มด้านข้าง และแทร็กแพด",
+        switcherDescription: "สลับระหว่างแอปและหน้าต่างในแบบของคุณ",
+        dockTitle: "Dock",
+        dockDescription: "ดูหน้าต่างทั้งหมดของแอปได้จากไอคอนบน Dock และกำหนดการทำงานเมื่อคลิกไอคอน",
+        switcherLayoutWindows: "ตัวอย่างหน้าต่าง",
+        switcherLayoutWindowsCaption: "แสดงตัวอย่างแยกตามแต่ละหน้าต่าง รวมถึงหน้าต่างที่ย่อเก็บไว้",
+        switcherLayoutIcons: "ไอคอนขนาดใหญ่",
+        switcherLayoutSimple: "รายการแบบเรียบง่าย"
     )
 
 

@@ -366,29 +366,29 @@ extension WallpaperFeatureStrings {
     )
 
     static let th = WallpaperFeatureStrings(
-        pageTitle: "วอลล์เปเปอร์",
-        hubDescription: "Pick a still wallpaper without opening System Settings",
-        panelDescription: "Pick a still wallpaper without opening System Settings.",
+        pageTitle: "วอลเปเปอร์",
+        hubDescription: "เลือกวอลเปเปอร์ภาพนิ่งโดยไม่ต้องเปิดการตั้งค่าระบบ",
+        panelDescription: "เลือกวอลเปเปอร์ภาพนิ่งโดยไม่ต้องเปิดการตั้งค่าระบบ",
         filterAll: "ทั้งหมด",
         filterOwn: "รูปภาพของคุณ",
-        filterApple: "แอปเปิล",
-        applyAllDisplays: "Show on all Spaces",
+        filterApple: "Apple",
+        applyAllDisplays: "แสดงในทุก Spaces",
         addImage: "เพิ่มรูปภาพ",
         addFolder: "เพิ่มโฟลเดอร์",
         removeAdded: "เอาออก",
         doneRemoving: "เสร็จสิ้น",
         sourceUnavailable: "ไม่พร้อมใช้งาน",
-        addImagePrompt: "Choose images to keep in Vorssaint’s wallpaper list",
+        addImagePrompt: "เลือกรูปภาพที่จะเก็บไว้ในรายการวอลเปเปอร์ของ Vorssaint",
         addFolderPrompt: "เลือกโฟลเดอร์รูปภาพที่จะเก็บไว้ในรายการวอลเปเปอร์ของ Vorssaint",
         openSystemSettings: "เปิดการตั้งค่าวอลเปเปอร์",
         emptyAll: "ไม่พบวอลเปเปอร์",
-        emptyOwn: "No pictures added yet",
-        emptyApple: "No Apple stills found",
-        downloading: "กำลังดาวน์โหลด...",
-        downloadFailed: "Could not download the wallpaper",
-        applyFailed: "Could not set the wallpaper",
+        emptyOwn: "ยังไม่ได้เพิ่มรูปภาพ",
+        emptyApple: "ไม่พบภาพนิ่งของ Apple",
+        downloading: "กำลังดาวน์โหลด…",
+        downloadFailed: "ไม่สามารถดาวน์โหลดวอลเปเปอร์ได้",
+        applyFailed: "ไม่สามารถตั้งค่าวอลเปเปอร์ได้",
         previousPage: "ก่อนหน้า",
-        nextPage: "ต่อไป"
+        nextPage: "ถัดไป"
     )
 
 

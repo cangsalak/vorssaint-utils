@@ -60,21 +60,21 @@ extension PortManagerFeatureStrings {
     )
 
     static let th = PortManagerFeatureStrings(
-        title: "ผู้จัดการท่าเรือ",
-        filter: "Filter by port, process, or PID",
-        openFormat: "%d เปิด",
-        empty: "No listening ports found",
-        emptyHint: "ลองรีเฟรชหรือเปลี่ยนการค้นหาของคุณ",
-        listeningCaption: "Your listening ports",
-        kill: "Kill",
-        forceKill: "Force Kill",
-        loadFailed: "Could not read listening ports. Try refreshing.",
+        title: "ตัวจัดการพอร์ต (Port Manager)",
+        filter: "กรองตามพอร์ต, โปรเซส หรือ PID",
+        openFormat: "เปิดอยู่ %d พอร์ต",
+        empty: "ไม่พบพอร์ตที่กำลังรอรับการเชื่อมต่อ",
+        emptyHint: "ลองรีเฟรชหรือเปลี่ยนคำค้นหาของคุณ",
+        listeningCaption: "พอร์ตที่กำลังรอรับการเชื่อมต่อของคุณ",
+        kill: "ยุติ",
+        forceKill: "บังคับยุติ",
+        loadFailed: "ไม่สามารถอ่านพอร์ตที่รอรับการเชื่อมต่อได้ โปรดลองรีเฟรช",
         refresh: "รีเฟรช",
-        terminateFormat: "ยุติ %@ หรือไม่",
-        terminateMessageFormat: "This closes port %d by terminating PID %d.",
-        hubDescription: "View active listening ports and, with Kill Process installed, terminate the processes using them",
-        allInterfaces: "อินเทอร์เฟซทั้งหมด",
-        allInterfacesHelp: "Listening on every network interface, so other devices on the network may be able to connect."
+        terminateFormat: "ต้องการยุติ %@ หรือไม่?",
+        terminateMessageFormat: "การดำเนินการนี้จะปิดพอร์ต %d โดยการยุติ PID %d",
+        hubDescription: "ดูพอร์ตที่กำลังรอรับการเชื่อมต่อ และยุติโปรเซสที่กำลังใช้งานพอร์ตเหล่านั้นเมื่อติดตั้งฟีเจอร์ยุติโปรเซส",
+        allInterfaces: "ทุกอินเทอร์เฟซ",
+        allInterfacesHelp: "กำลังรอรับการเชื่อมต่อในทุกอินเทอร์เฟซเครือข่าย อุปกรณ์อื่นในเครือข่ายจึงอาจสามารถเชื่อมต่อเข้ามาได้"
     )
 
 

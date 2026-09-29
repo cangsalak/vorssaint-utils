@@ -163,13 +163,13 @@ private extension ConnectedDevicesFeatureStrings {
     )
 
     static let th = ConnectedDevicesFeatureStrings(
-        title: "Connected Devices",
-        hubDescription: "Count connected external USB peripherals",
-        noDevices: "No external devices connected",
-        unnamedDevice: "USB Device",
-        menuBarLabel: "ยูเอสบี",
-        oneConnected: "1 device connected",
-        devicesConnectedFormat: "เชื่อมต่ออุปกรณ์ %d แล้ว"
+        title: "อุปกรณ์ที่เชื่อมต่อ",
+        hubDescription: "นับจำนวนอุปกรณ์ต่อพ่วง USB ภายนอกที่เชื่อมต่ออยู่",
+        noDevices: "ไม่มีอุปกรณ์ภายนอกเชื่อมต่ออยู่",
+        unnamedDevice: "อุปกรณ์ USB",
+        menuBarLabel: "USB",
+        oneConnected: "เชื่อมต่ออยู่ 1 อุปกรณ์",
+        devicesConnectedFormat: "เชื่อมต่ออยู่ %d อุปกรณ์"
     )
 
 

@@ -52,10 +52,10 @@ extension WindowLayoutIgnoredAppsStrings {
     static let zhHK = WindowLayoutIgnoredAppsStrings(sectionTitle: "忽略的 App", listTitle: "在這些 App 中暫停", addButton: "加入 App…", removeButton: "移除", caption: "當這些 App 之一處於焦點時，視窗排列不會使用滑鼠或鍵盤輸入。")
 
     static let th = WindowLayoutIgnoredAppsStrings(
-        sectionTitle: "Ignore apps",
-        listTitle: "หยุดชั่วคราวในแอปเหล่านี้",
-        addButton: "Add an app…",
-        removeButton: "เอาออก",
-        caption: "Window Layout does not use mouse or keyboard input while one of these apps is focused."
+        sectionTitle: "แอปที่ละเว้น",
+        listTitle: "หยุดทำงานชั่วคราวในแอปเหล่านี้",
+        addButton: "เพิ่มแอป…",
+        removeButton: "ลบออก",
+        caption: "การจัดหน้าต่างจะไม่ตรวจจับการป้อนข้อมูลจากเมาส์หรือแป้นพิมพ์ขณะที่แอปเหล่านี้ทำงานอยู่ด้านหน้าสุด"
     )
 }

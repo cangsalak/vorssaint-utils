@@ -155,11 +155,11 @@ extension WindowPreviewExclusionStrings {
     )
 
     static let th = WindowPreviewExclusionStrings(
-        sectionTitle: "Window thumbnails",
-        listTitle: "หยุดชั่วคราวในแอปเหล่านี้",
-        addButton: "Add an app…",
-        removeButton: "เอาออก",
-        caption: "Window thumbnails stop while one of these apps is in front."
+        sectionTitle: "ภาพตัวอย่างหน้าต่าง",
+        listTitle: "หยุดทำงานชั่วคราวในแอปเหล่านี้",
+        addButton: "เพิ่มแอป…",
+        removeButton: "ลบออก",
+        caption: "ภาพตัวอย่างหน้าต่างจะหยุดทำงานขณะที่แอปเหล่านี้ทำงานอยู่ด้านหน้าสุด"
     )
 
 }

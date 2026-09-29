@@ -220,15 +220,15 @@ extension CameraPreviewFeatureStrings {
     )
 
     static let th = CameraPreviewFeatureStrings(
-        pageTitle: "Camera preview",
-        hubDescription: "Opens a floating mirror with your camera",
-        panelCaption: "Check how you look before a call",
-        openButton: "Open preview",
+        pageTitle: "ตัวอย่างกล้อง",
+        hubDescription: "เปิดกระจกแบบลอยที่แสดงภาพจากกล้องของคุณ",
+        panelCaption: "ตรวจสอบความพร้อมของคุณก่อนเริ่มการโทร",
+        openButton: "เปิดตัวอย่าง",
         cameraMenuLabel: "กล้อง",
         deniedMessage: "การเข้าถึงกล้องสำหรับ Vorssaint ถูกปิดอยู่ในการตั้งค่าระบบ",
-        noCameraMessage: "No camera detected",
+        noCameraMessage: "ตรวจไม่พบกล้อง",
         permName: "กล้อง",
-        permExplain: "Shows your camera only in the preview window, so you can check how you look before a call. Nothing is recorded or leaves your Mac."
+        permExplain: "แสดงภาพจากกล้องของคุณเฉพาะในหน้าต่างตัวอย่างเท่านั้น เพื่อให้คุณสามารถตรวจสอบความพร้อมก่อนเริ่มการโทร โดยจะไม่มีการบันทึกภาพหรือส่งข้อมูลใดๆ ออกจาก Mac ของคุณ"
     )
 
 }

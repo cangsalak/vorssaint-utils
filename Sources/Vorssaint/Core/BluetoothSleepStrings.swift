@@ -191,12 +191,12 @@ extension BluetoothSleepStrings {
 
     static let th = BluetoothSleepStrings(
         pageTitle: "บลูทูธในโหมดสลีป",
-        hubDescription: "Switches Bluetooth off while the Mac sleeps, so headphones in a bag stop connecting to it.",
-        enable: "Turn Bluetooth off when the Mac sleeps",
-        enableCaption: "Bluetooth already off before sleep is left alone and stays off on wake.",
-        restoreToggle: "Turn Bluetooth back on when the Mac wakes",
-        restoreCaption: "Only when Vorssaint was the one that switched it off.",
-        unsupported: "This Mac has no Bluetooth controller."
+        hubDescription: "ปิดบลูทูธในระหว่างที่ Mac เข้าสู่โหมดสลีป เพื่อไม่ให้หูฟังที่เก็บไว้ในกระเป๋าเชื่อมต่อโดยอัตโนมัติ",
+        enable: "ปิดบลูทูธเมื่อ Mac เข้าสู่โหมดสลีป",
+        enableCaption: "บลูทูธที่ปิดอยู่แล้วก่อนเข้าสู่โหมดสลีปจะไม่ได้รับการเปลี่ยนแปลง และจะยังคงปิดอยู่เมื่อ Mac ตื่น",
+        restoreToggle: "เปิดบลูทูธอีกครั้งเมื่อ Mac ตื่นขึ้น",
+        restoreCaption: "เฉพาะกรณีที่ Vorssaint เป็นผู้สั่งปิดเท่านั้น",
+        unsupported: "Mac เครื่องนี้ไม่มีตัวควบคุมบลูทูธ"
     )
 
 }

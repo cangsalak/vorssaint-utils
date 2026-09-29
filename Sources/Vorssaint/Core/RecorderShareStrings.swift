@@ -219,15 +219,15 @@ extension RecorderShareStrings {
     )
 
     static let th = RecorderShareStrings(
-        caption: "Choose 1 or 6 hours. The final video is compressed on this Mac to fit under 100 MB and deleted automatically.",
-        privacyData: "Vorssaint sends only the final video created from this recording, including the audio you kept, and the expiration you choose. It does not send your name, account or device identifier.",
-        privacyStorage: "Network providers and the service temporarily process your public IP to prevent abuse. The video and link metadata are permanently deleted when you delete the link or its time ends. The service does not create backups.",
-        privacyAccess: "Anyone with the link can view, download, save or redistribute the video. Active links are available to the service operator for abuse moderation. Share only with people you trust.",
-        compressing: "Compressing for sharing…",
-        uploading: "Uploading securely…",
-        tooLarge: "This recording cannot fit under 100 MB without losing too much quality.",
-        failed: "The temporary link could not be created",
-        tourCaption: "บีบอัดการบันทึกที่เสร็จแล้วบน Mac เครื่องนี้และแชร์เป็นเวลา 1 หรือ 6 ชั่วโมง"
+        caption: "เลือกอายุ 1 หรือ 6 ชั่วโมง วิดีโอสุดท้ายจะถูกบีบอัดบน Mac เครื่องนี้ให้มีขนาดไม่เกิน 100 MB และจะถูกลบโดยอัตโนมัติ",
+        privacyData: "Vorssaint จะส่งเฉพาะวิดีโอสุดท้ายที่สร้างจากการบันทึกนี้ รวมถึงเสียงที่คุณเลือกเก็บไว้ และระยะเวลาหมดอายุที่คุณกำหนดเท่านั้น โดยไม่ส่งชื่อ บัญชี หรือตัวระบุอุปกรณ์ของคุณ",
+        privacyStorage: "ผู้ให้บริการเครือข่ายและระบบจะประมวลผล IP สาธารณะของคุณชั่วคราวเพื่อป้องกันการใช้งานในทางที่ผิด วิดีโอและข้อมูลเมทาดาตาของลิงก์จะถูกลบถาวรเมื่อคุณกดลบลิงก์หรือเมื่อหมดเวลา ทางบริการไม่มีการสำรองข้อมูลใดๆ",
+        privacyAccess: "ทุกคนที่มีลิงก์สามารถดู ดาวน์โหลด บันทึก หรือเผยแพร่วิดีโอต่อได้ ลิงก์ที่ใช้งานอยู่อาจได้รับการตรวจสอบโดยผู้ให้บริการเพื่อป้องกันการใช้งานในทางที่ผิด โปรดแชร์ให้เฉพาะคนที่คุณไว้วางใจเท่านั้น",
+        compressing: "กำลังบีบอัดเพื่อแชร์…",
+        uploading: "กำลังอัปโหลดอย่างปลอดภัย…",
+        tooLarge: "วิดีโอนี้ไม่สามารถบีบอัดให้ต่ำกว่า 100 MB ได้โดยไม่สูญเสียคุณภาพมากเกินไป",
+        failed: "ไม่สามารถสร้างลิงก์ชั่วคราวได้",
+        tourCaption: "บีบอัดวิดีโอบันทึกหน้าจอที่เสร็จแล้วบน Mac เครื่องนี้ แล้วแชร์เป็นเวลา 1 หรือ 6 ชั่วโมง"
     )
 
 }

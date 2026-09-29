@@ -426,27 +426,27 @@ extension SuperKeyStrings {
     )
 
     static let th = SuperKeyStrings(
-        pageTitle: "ปุ่ม Super",
-        hubDescription: "Turns one key into the modifier combination you choose.",
-        enableToggle: "ใช้คีย์นี้เป็นคีย์ซุปเปอร์",
-        enableCaption: "กดค้างไว้แล้วกดปุ่มใดก็ได้ เลือกตัวแก้ไขอย่างน้อยหนึ่งรายการด้านล่าง",
-        modifierKeysNote: "Keep this key set to its default action in System Settings › Keyboard › Modifier Keys.",
-        sourceKey: "Key to hold",
+        pageTitle: "ปุ่ม Super (Super Key)",
+        hubDescription: "เปลี่ยนปุ่มเพียงปุ่มเดียวให้กลายเป็นกลุ่มแป้นปรับเปลี่ยนที่คุณเลือก",
+        enableToggle: "ใช้ปุ่มนี้เป็นปุ่ม Super",
+        enableCaption: "กดปุ่มนี้ค้างไว้แล้วกดแป้นพิมพ์อื่นๆ เลือกแป้นปรับเปลี่ยนอย่างน้อยหนึ่งแป้นด้านล่าง",
+        modifierKeysNote: "โปรดตั้งค่าปุ่มนี้ให้เป็นการทำงานเริ่มต้นในการตั้งค่าระบบ › แป้นพิมพ์ › ปุ่มปรับเปลี่ยน",
+        sourceKey: "ปุ่มที่ใช้กดค้าง",
         capsLockKey: "Caps Lock",
-        rightKeyFormat: "Right %@",
-        holdHint: "ถือ",
-        soloSection: "A tap on its own",
-        soloCaption: "What a quick tap does when no other key is pressed.",
-        soloNothing: "ไม่มีอะไร",
-        soloCapsLock: "Turn capitals on and off",
-        soloEscape: "Press Escape",
-        activeNow: "Working now",
-        panelCaptionFormat: "%1$@ holds %2$@.",
-        manageButton: "ตั้งค่า...",
-        soloInputSource: "สลับแหล่งอินพุต กดค้างไว้เพื่อ Caps Lock",
-        mappingForeignMapping: "Another app’s key mapping uses the selected key. Remove it in that app: quitting it is not enough.",
-        mappingSystemRefused: "macOS refused the key mapping. Reconnect the keyboard or restart the Mac, then switch this on again.",
-        keyboardTapRefused: "macOS would not let Vorssaint watch the keyboard. Turn Vorssaint off and on in System Settings › Privacy & Security › Accessibility, then switch this on again."
+        rightKeyFormat: "%@ ขวา",
+        holdHint: "กดค้าง",
+        soloSection: "เมื่อกดแล้วปล่อยเพียงปุ่มเดียว",
+        soloCaption: "การทำงานเมื่อกดแป้นสั้นๆ โดยไม่ได้กดแป้นพิมพ์อื่นร่วมด้วย",
+        soloNothing: "ไม่ทำอะไร",
+        soloCapsLock: "เปิดหรือปิดตัวพิมพ์ใหญ่ (Caps Lock)",
+        soloEscape: "กด Escape",
+        activeNow: "กำลังทำงานอยู่",
+        panelCaptionFormat: "%1$@ ทำหน้าที่แทน %2$@",
+        manageButton: "ตั้งค่า…",
+        soloInputSource: "สลับภาษาป้อนเข้า (กดค้างไว้สำหรับ Caps Lock)",
+        mappingForeignMapping: "การแมปแป้นพิมพ์ของแอปอื่นกำลังใช้งานปุ่มที่เลือกอยู่ โปรดลบการตั้งค่าในแอปนั้นออก การปิดแอปเพียงอย่างเดียวอาจไม่เพียงพอ",
+        mappingSystemRefused: "macOS ปฏิเสธการแมปแป้นพิมพ์ โปรดเชื่อมต่อแป้นพิมพ์ใหม่อีกครั้ง หรือรีสตาร์ท Mac จากนั้นเปิดตัวเลือกนี้ใหม่อีกครั้ง",
+        keyboardTapRefused: "macOS ไม่อนุญาตให้ Vorssaint ตรวจจับแป้นพิมพ์ โปรดปิดแล้วเปิดสิทธิ์ Vorssaint อีกครั้งในการตั้งค่าระบบ › ความเป็นส่วนตัวและความปลอดภัย › การช่วยการเข้าถึง จากนั้นเปิดตัวเลือกนี้ใหม่อีกครั้ง"
     )
 
 }

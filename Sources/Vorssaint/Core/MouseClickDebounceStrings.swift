@@ -155,11 +155,11 @@ extension MouseClickDebounceStrings {
     )
 
     static let th = MouseClickDebounceStrings(
-        title: "Extra click filter",
-        caption: "Ignores rapid extra clicks from worn mouse buttons without slowing normal clicks.",
-        moreOptions: "More options",
-        windowLabel: "Filter window",
-        windowCaption: "การคลิกซ้ำภายในช่วงเวลานี้จะถือเป็นการคลิกซ้ำโดยไม่ตั้งใจ"
+        title: "ตัวกรองการคลิกซ้ำ (Debounce)",
+        caption: "ละเว้นการคลิกซ้ำที่เร็วผิดปกติจากปุ่มเมาส์ที่เสื่อมสภาพ โดยไม่ทำให้การคลิกปกติช้าลง",
+        moreOptions: "ตัวเลือกเพิ่มเติม",
+        windowLabel: "ช่วงเวลาการกรอง",
+        windowCaption: "การคลิกซ้ำภายในช่วงเวลานี้จะถือว่าเป็นการคลิกซ้ำโดยไม่ได้ตั้งใจ"
     )
 
 }

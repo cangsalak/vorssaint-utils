@@ -72,17 +72,17 @@ extension BackupFeatureStrings {
     )
 
     static let th = BackupFeatureStrings(
-        title: "Backup",
-        description: "Take your setup to another Mac: export every preference to a file and import it there. Your Scratchpad notes, clipboard history, Shelf items and system permissions never leave this Mac.",
-        exportButton: "Export settings…",
-        importButton: "Import settings…",
+        title: "การสำรองข้อมูล",
+        description: "ย้ายการตั้งค่าของคุณไปยัง Mac เครื่องอื่น: ส่งออกการตั้งค่าทั้งหมดเป็นไฟล์และนำเข้าที่นั่น โดยข้อความโน้ตในกระดาษโน้ตด่วน (Scratchpad), ประวัติคลิปบอร์ด, รายการใน Shelf และสิทธิ์ของระบบจะไม่ถูกนำออกจาก Mac เครื่องนี้",
+        exportButton: "ส่งออกการตั้งค่า…",
+        importButton: "นำเข้าการตั้งค่า…",
         exported: "บันทึกข้อมูลสำรองแล้ว",
-        exportFailed: "Could not save the backup.",
+        exportFailed: "ไม่สามารถบันทึกข้อมูลสำรองได้",
         importConfirmTitle: "นำเข้าการตั้งค่าเหล่านี้หรือไม่",
-        importConfirmBody: "การตั้งค่าปัจจุบันของคุณจะถูกแทนที่ด้วยไฟล์และแอปจะรีสตาร์ท ไม่มีอะไรแตะต้องบน Mac เครื่องนี้อีก",
-        importMissingIslandBody: "This backup has no Dynamic Island settings. This Mac’s island settings will be kept. Re-export with Vorssaint 3.4 or newer on the other Mac to copy them. Other settings will be imported and the app will restart.",
-        importAction: "นำเข้าและรีสตาร์ท",
-        invalidFile: "This file is not a valid Vorssaint backup."
+        importConfirmBody: "การตั้งค่าปัจจุบันของคุณจะถูกแทนที่ด้วยการตั้งค่าในไฟล์ และแอปจะเริ่มการทำงานใหม่ โดยส่วนอื่นๆ บน Mac เครื่องนี้จะไม่ได้รับผลกระทบใดๆ",
+        importMissingIslandBody: "ข้อมูลสำรองนี้ไม่มีการตั้งค่าของ Dynamic Island โดยการตั้งค่าบน Mac เครื่องนี้จะยังคงอยู่ หากต้องการคัดลอก ให้ส่งออกใหม่อีกครั้งด้วย Vorssaint 3.4 หรือใหม่กว่าบน Mac อีกเครื่องหนึ่ง ทั้งนี้การตั้งค่าอื่นๆ จะถูกนำเข้าและแอปจะเริ่มการทำงานใหม่",
+        importAction: "นำเข้าและเริ่มใหม่",
+        invalidFile: "ไฟล์นี้ไม่ใช่ไฟล์สำรองข้อมูล Vorssaint ที่ถูกต้อง"
     )
 
 }

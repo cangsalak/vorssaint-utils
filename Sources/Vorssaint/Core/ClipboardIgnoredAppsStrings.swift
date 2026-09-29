@@ -139,10 +139,10 @@ extension ClipboardIgnoredAppsStrings {
     )
 
     static let th = ClipboardIgnoredAppsStrings(
-        listTitle: "Apps to skip",
-        addButton: "Add an app…",
+        listTitle: "แอปที่ข้าม (ไม่บันทึก)",
+        addButton: "เพิ่มแอป…",
         removeButton: "เอาออก",
-        caption: "Nothing you copy in these apps is saved to the history."
+        caption: "ข้อความหรือไฟล์ใดๆ ที่คุณคัดลอกในแอปเหล่านี้จะไม่ถูกบันทึกลงในประวัติคลิปบอร์ด"
     )
 
 }

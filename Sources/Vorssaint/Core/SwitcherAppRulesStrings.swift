@@ -203,14 +203,14 @@ extension SwitcherAppRulesStrings {
     )
 
     static let th = SwitcherAppRulesStrings(
-        listTitle: "กฎตามแอป",
-        addButton: "Add an app…",
-        removeButton: "เอาออก",
-        behaviorLabel: "Switcher behavior",
-        showWithoutWindows: "Show without windows",
-        windowsOnly: "หน้าต่างเท่านั้น",
-        hidden: "ไม่เคยแสดง",
-        caption: "เลือกวิธีที่แต่ละแอปจะปรากฏ แอปที่ไม่มีกฎให้ใช้ตัวเลือกด้านบน"
+        listTitle: "กฎตามแอปพลิเคชัน",
+        addButton: "เพิ่มแอป…",
+        removeButton: "ลบออก",
+        behaviorLabel: "ลักษณะการทำงานของตัวสลับแอป",
+        showWithoutWindows: "แสดงแม้ไม่มีหน้าต่าง",
+        windowsOnly: "แสดงเฉพาะที่มีหน้าต่างเท่านั้น",
+        hidden: "ไม่ต้องแสดง",
+        caption: "เลือกรูปแบบการแสดงผลของแต่ละแอป ส่วนแอปที่ไม่ได้ตั้งกฎไว้จะใช้การตั้งค่าหลักด้านบน"
     )
 
 }

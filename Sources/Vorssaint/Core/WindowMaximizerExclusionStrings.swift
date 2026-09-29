@@ -117,10 +117,10 @@ extension WindowMaximizerExclusionStrings {
     )
 
     static let th = WindowMaximizerExclusionStrings(
-        listTitle: "เก็บแบบเต็มหน้าจอไว้ในแอปเหล่านี้",
-        addButton: "Add an app…",
-        removeButton: "เอาออก",
-        caption: "The green button keeps its macOS behavior in these apps, so games, emulators and video players can still enter full screen."
+        listTitle: "คงการทำงานเต็มหน้าจอในแอปเหล่านี้",
+        addButton: "เพิ่มแอป…",
+        removeButton: "ลบออก",
+        caption: "ปุ่มสีเขียวจะคงการทำงานตามปกติของ macOS ในแอปเหล่านี้ เพื่อให้เกม โปรแกรมจำลอง และโปรแกรมเล่นวิดีโอยังคงสามารถเข้าสู่โหมดเต็มหน้าจอได้"
     )
 
 

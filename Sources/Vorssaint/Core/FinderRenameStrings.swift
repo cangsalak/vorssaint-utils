@@ -171,11 +171,11 @@ extension FinderRenameFeatureStrings {
     )
 
     static let th = FinderRenameFeatureStrings(
-        pageTitle: "ทางลัด Finder",
-        hubTitle: "เปลี่ยนชื่อทางลัด",
-        hubDescription: "Rename the selected file or folder with a shortcut you choose.",
-        enableLabel: "Use a shortcut to rename",
-        caption: "The shortcut only acts in Finder and leaves text fields alone. F2 works as a regular key; on keyboards where it controls brightness, use Fn-F2 or choose another shortcut.",
+        pageTitle: "ปุ่มลัด Finder",
+        hubTitle: "ปุ่มลัดเปลี่ยนชื่อ",
+        hubDescription: "เปลี่ยนชื่อไฟล์หรือโฟลเดอร์ที่เลือกด้วยปุ่มลัดที่คุณกำหนด",
+        enableLabel: "ใช้ปุ่มลัดเพื่อเปลี่ยนชื่อ",
+        caption: "ปุ่มลัดนี้จะมีผลเฉพาะใน Finder เท่านั้น และไม่รบกวนช่องป้อนข้อความ ทั้งนี้ F2 จะทำงานเหมือนปุ่มทั่วไป แต่หากบนแป้นพิมพ์ของคุณปุ่มนี้ใช้สำหรับปรับความสว่าง ให้ใช้ Fn-F2 หรือเลือกปุ่มลัดอื่นแทน",
         shortcutLabel: "เปลี่ยนชื่อ"
     )
 

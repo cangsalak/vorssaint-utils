@@ -203,13 +203,13 @@ extension RecentCaptureStrings {
     )
 
     static let th = RecentCaptureStrings(
-        title: "Recent captures",
-        empty: "จับภาพหน้าจอหรือบันทึกสิ่งที่บันทึกไว้เพื่อค้นหาได้ที่นี่",
+        title: "รายการจับภาพล่าสุด",
+        empty: "จับภาพหน้าจอหรือบันทึกวิดีโอหน้าจอเพื่อดูรายการในนี้",
         screenshot: "ภาพถ่ายหน้าจอ",
-        recording: "Recording",
+        recording: "วิดีโอบันทึกหน้าจอ",
         restore: "คืนค่า",
         open: "เปิด",
-        remove: "Remove from history",
+        remove: "ลบออกจากประวัติ",
         clear: "ล้างประวัติ"
     )
 

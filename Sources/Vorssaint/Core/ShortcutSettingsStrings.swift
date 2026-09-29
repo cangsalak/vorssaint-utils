@@ -123,8 +123,8 @@ extension ShortcutSettingsStrings {
     )
 
     static let th = ShortcutSettingsStrings(
-        active: "Active",
-        inactive: "Inactive",
+        active: "ใช้งานอยู่",
+        inactive: "ไม่ได้ใช้งาน",
         superKeyAlternativeFormat: "หรือ %@"
     )
 

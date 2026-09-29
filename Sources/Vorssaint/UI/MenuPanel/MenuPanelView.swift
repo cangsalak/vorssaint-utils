@@ -2903,6 +2903,7 @@ struct KeepAwakeCard: View {
         case .ja: return "バッテリー残量 \(percent)%。電源に接続するかバッテリーの下限を下げると開始できます"
         case .ko: return "배터리 \(percent)%. 전원을 연결하거나 배터리 한도를 낮추면 시작할 수 있습니다"
         case .uk: return "Заряд \(percent)%. Підключіть живлення або знизьте поріг заряду, щоб почати"
+        case .th: return "แบตเตอรี่อยู่ที่ \(percent)% เสียบสายชาร์จหรือลดขีดจำกัดแบตเตอรี่ลงเพื่อเริ่มต้น"
         case .zhHans: return "电量 \(percent)%。接通电源或调低电量下限即可开始"
         case .zhTW, .zhHK: return "電量 \(percent)%。接上電源或調低電量下限即可開始"
         }
@@ -2922,6 +2923,7 @@ struct KeepAwakeCard: View {
         case .ja: return "チップをクリックで開始、もう一度クリックで停止"
         case .ko: return "칩을 클릭하면 시작하고, 다시 클릭하면 멈춥니다"
         case .uk: return "Натисніть на чип, щоб почати. Натисніть ще раз, щоб зупинити"
+        case .th: return "คลิกที่ชิปเพื่อเริ่ม คลิกอีกครั้งเพื่อหยุด"
         case .zhHans: return "点按一个标签即可开始，再次点按即可停止"
         case .zhTW, .zhHK: return "點按一個標籤即可開始，再次點按即可停止"
         }
